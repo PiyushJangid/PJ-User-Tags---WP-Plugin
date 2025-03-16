@@ -1,2 +1,2 @@
-# PJ-User-Tags---WP-Plugin
+# PJ User Tags - WP Plugin
 User Tags - WordPress Plugin
